@@ -3,7 +3,7 @@ Type: Package
 Title: RStudio Addins for working with Alteryx
 Version: 0.1.0
 Author: Dylan Blanchard
-Maintainer: Dylan Blanchard <dblanchard.alteryx.com>
+Maintainer: Dylan Blanchard <dblanchard@alteryx.com>
 Description: Provide addins for RStudio for setting libpaths appropriately, etc.
 Encoding: UTF-8
 LazyData: true
