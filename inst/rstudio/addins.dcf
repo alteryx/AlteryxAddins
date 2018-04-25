@@ -1,0 +1,4 @@
+Name: Use Alteryx Lib
+Description: Put Alteryx library first in libpaths
+Binding: useAlteryxLibPath
+Interactive: false
